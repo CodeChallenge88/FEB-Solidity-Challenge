@@ -1,0 +1,27 @@
+# Challenge C: Next-Gen Futures Order System Contract
+
+---
+
+## Objective
+Develop a Solidity contract for managing advanced futures orders.
+
+## Key Features
+- **Support for Complex Futures Orders**: Implement features like limit and stop orders.
+- **Real-Time Market Price Feeds**: Integrate with various market data sources for up-to-date pricing.
+- **Automated Order Fulfillment and Dispute Resolution**: Streamline the process of order handling and resolving disputes.
+- **Detailed Transaction Logs**: Maintain logs for compliance and audit purposes.
+
+## Expanded Scope
+- **Exotic Futures Contracts**: Incorporate contracts like weather derivatives and prediction markets.
+
+## Innovative Feature
+- **Machine Learning for Market Trends**: Utilize ML algorithms to predict market trends and adjust orders accordingly.
+
+## Creative Interpretation
+- **Unique Risk Management Tools**: Develop innovative tools for risk management within the contract.
+
+## Expected Deliverable
+- A deployable, well-documented Solidity contract.
+- Comprehensive user guides.
+
+---
