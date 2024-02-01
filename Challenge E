@@ -1,0 +1,27 @@
+# Challenge E: Supply Adjustment Algorithm
+
+---
+
+## Objective
+Develop an advanced algorithm in Solidity for dynamic token supply adjustment.
+
+## Scope
+- **Autonomous Adjustment**: The algorithm should autonomously adjust token supply in response to market demand, price changes, and specific triggers.
+- **Efficiency**: Focus on minimal gas usage and optimal execution speed.
+- **Scalability**: Ensure the algorithm can adapt to future market conditions.
+
+## Expanded Scope
+- **Real-World Events Integration**: Integrate real-world events and macroeconomic indicators into the algorithm's logic.
+
+## Innovative Feature
+- **Machine Learning Optimization**: Use machine learning to continually refine and optimize supply adjustments.
+
+## Creative Interpretation
+- **Simulation Model**: Develop a model to simulate and forecast the long-term impacts of supply adjustments on the token ecosystem.
+
+## Expected Deliverable
+- A well-documented and efficient algorithm.
+- Simulation scenarios and performance analytics.
+- A plan for integrating machine learning.
+
+---
